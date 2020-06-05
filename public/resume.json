@@ -1,0 +1,197 @@
+{
+
+    "basics": {
+      "name": "Bryon Keck",
+      "label": "software engineer — visualizer of data — experience — photographer",
+      "picture": "",
+      "email": "hello@bryonkeck.com",
+      "phone": "(951) 313-9760",
+      "website": "https://bryonkeck.com",
+      "summary": "Bryon is a passionate, forward thinking <em>software engineer</em> with a keen eye for user experience, service <strong>observability</strong>, and lots of modern technology using traditional software engineering processes.",
+      "location": {
+        "address": "",
+        "postalCode": "AZ 85257",
+        "city": "Scottsdale",
+        "countryCode": "US",
+        "region": "Arizona"
+      },
+      "profiles": [{
+        "network": "Github",
+        "username": "vertex",
+        "url": "https://github.com/vertex"
+      },{
+        "network": "LinkedIn",
+        "username": "bryonkeck",
+        "url": "https://www.linkedin.com/in/bryonkeck"
+      },{
+        "network": "Twitter",
+        "username": "vertex",
+        "url": "https://twitter.com/vertex"
+      },{
+        "network": "Instagram",
+        "username": "givertex",
+        "url": "https://instagram.com/givertex"
+      }]
+    },
+    "work": [{
+        "company": "PayPal: Command Center Refresh",
+        "position": "MTS1, Senior Software Engineer",
+        "website": "https://paypal.com",
+        "startDate": "2020-01",
+        "summary": "Designed, produced new live issue triaging platform to provide <strong>monitoring</strong>, <strong>observability</strong>, and <strong>alerting</strong> into the health of PayPal's many thousands of microservices and supporting infrastructures to our various customers. The primary customer, the PayPal Command Center, is responsible for transaction volumes up to trillions and is the front-line protection to customer impacting issues.",
+        "highlights": [
+            "Signal FX",
+            "Splunk",
+            "Customer Interviews",
+            "User Experience",
+            "Site Architecture",
+            "Javascript",
+            "Node JS"
+        ]
+      },{
+        "company": "PayPal: Merchant Monitoring",
+        "position": "MTS1, Front-end Architect",
+        "website": "https://paypal.com",
+        "startDate": "2014-07",
+        "endDate": "2020-01",
+        "summary": "Designed, produced, architected, and led the <em>Front-end</em> development team responsible for <strong>monitoring</strong> and <strong>alerting</strong>. Provides real time minute-level <strong>observability</strong> into how PayPal availability is effecting Merchants, the largest driver of PayPal <em>Total Payment Volume</em>. Provided reliable triaging platform, design oversight, mentorship of new team members, and strong <strong>data visualization</strong>.",
+        "highlights": [
+            "User Experience",
+            "Front-end Architecture",
+            "Javascript",
+            "Node JS",
+            "Angular",
+            "Highcharts",
+            "ElasticSearch",
+            "Kafka",
+            "Unix ",
+            "Distributed Systems",
+            "OpenStack",
+            "Google Cloud Platform"
+        ]
+      },{
+        "company": "SquadPod (BizAnytime)",
+        "position": "Web Developer",
+        "website": "https://squadpod.com",
+        "startDate": "2014-06",
+        "endDate": "2013-03",
+        "summary": "Maintained a legacy product while planning and architecting a new product in the digital, remote-workforce collaboration space. Responsibilities included creating specifications for a new product, creating architecture requirements specific to the business requirements of the product. Planning the front-end and back-end application user and data flows, data storage, and design. Responsibilities also included setting up, and maintaining multiple development environments for development, QA, and testing. Our design called for a Laravel-PHP based backend, which implemented a REST protocol, allowing the front-end to communicate using JSON with our Angular.JS based front-end application. Using Angular.JS, we separated a majority of our application logic to the front-end, making the web application appear responsive to the user, and assisting in maintaining cross-device compatibility. Responsibilities also included implementing a responsive design, maintaining application usability across a variety of devices.",
+        "highlights": [
+            "User Experience",
+            "Front-end Architecture",
+            "Back-end Architecture",
+            "Javascript",
+            "Angular",
+            "REST",
+            "PHP",
+            "Laravel",
+            "Unix "
+        ]
+      },{
+        "company": "Brink  (BrinkMedia)",
+        "position": "Senior Engineer",
+        "website": "https://www.brink.com/",
+        "startDate": "2013-03",
+        "endDate": "2006-10",
+        "summary": "Technical lead for a small team of developers making and producing detailed, media oriented websites and applications.",
+        "highlights": [
+            "User Experience",
+            "Front-end Architecture",
+            "Back-end Architecture",
+            "Javascript",
+            "Unix "
+        ]
+      }],
+    "volunteer": [],
+    "education": [{
+      "institution": "Pima Community College",
+      "area": "Computer Programmer/Analyst",
+      "studyType": "Associate",
+      "startDate": "2007",
+      "endDate": "2013",
+      "gpa": "3.0"
+    }],
+    "awards": [{
+        "title": "CIW Site Development Associate",
+        "date": "2012-09-01",
+        "awarder": "CIW",
+        "summary": "Credential ID 304324"
+      },{
+        "title": "First place",
+        "date": "2010-09-01",
+        "awarder": "PSAid.org",
+        "summary": "\"Cash is best\" Photo"
+      },{
+        "title": "Webby Award Honoree",
+        "date": "2010-09",
+        "awarder": "The Webby Awards",
+        "summary": "Webby Award Honoree, Tourism Holland.com (BrinkMedia, Senionr Engineer)"
+      },{
+        "title": "Eagle Scout",
+        "date": "2007-01",
+        "awarder": "Boy Scouts of America"
+      },{
+        "title": "2nd Place Place E-Business",
+        "date": "2007-09",
+        "awarder": "Future Business Leaders of America"
+      }
+    ],
+    "publications": [],
+    "skills": [{
+      "name": "Javascript",
+      "level": "Master",
+      "keywords": [
+        "Node JS",
+        "Typescript",
+        "Angular",
+        "React"
+      ]
+    }, {
+        "name": "Distributed Systems",
+        "level": "Master",
+        "keywords": [
+          "Google Cloud Platform",
+          "AWS",
+          "Unix",
+          "Windows"
+        ]
+      }, {
+        "name": "Observability",
+        "level": "Advanced",
+        "keywords": [
+          "Monitoring",
+          "Tracing",
+          "Hardware",
+          "Infrastructure",
+          "Resources",
+          "Saturation"
+        ]
+      }, {
+        "name": "Leadership",
+        "level": "Advanced",
+        "keywords": [
+          "Training",
+          "Mentoring",
+          "Task Management",
+          "Agile",
+          "Waterfall"
+        ]
+      }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Photography",
+      "keywords": [
+        "Abstract", 
+        "Aerial",
+        "Landscape",
+        "Commercial",
+        "Portrait"
+      ]
+    }],
+    "references": []
+  
+}
+  
