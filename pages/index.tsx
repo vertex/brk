@@ -4,7 +4,9 @@ import Header from '../components/Header'
 export default function Home() {
   return (
     <>
-    <Header />
+    <Header>
+      <title>Bryon Keck - Resume</title>
+    </Header>
     <div className="container mx-auto font-serif ">
       <div className="grid grid-cols-1 gap-4">
         <div className="col-span-1 text-center">
@@ -21,7 +23,7 @@ export default function Home() {
   problem-solving skills to fuel competitive advantage and revenue growth, while also having the ability to develop towards ambitious
   performance through creation of an inclusive and innovative team culture
           </p>
-          <h4 className="text-base font-bold">Key Qualifications</h4>
+          <span className="font-bold col-span-6">Key Qualifications</span>
           <p>
             <strong className="italic">Software:</strong> Javascript, Node.js, ECMAScript 2017, Linux, Bash command line, PHP, Android, Java, MySQL <br />
             <strong className="italic">Packages:</strong> Angular, Kraken.js, Express.js, React, Webpack, Babel, Highcharts, LESS, SASS, Riak, Qpid, Web Sockets, Open Stack<br />
