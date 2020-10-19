@@ -4,9 +4,11 @@ import Header from '../components/Header'
 export default function Home() {
   return (
     <>
-    <Header>
+    <Head>
+
       <title>Bryon Keck - Resume</title>
-    </Header>
+    </Head>
+    <Header />
     <div className="container mx-auto font-serif ">
       <div className="grid grid-cols-1 gap-4">
         <div className="col-span-1 text-center">
