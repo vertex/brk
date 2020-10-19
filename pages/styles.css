@@ -1,0 +1,54 @@
+
+/* purgecss start ignore */
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+body, html, body div {
+  height: 100%; 
+} 
+a {
+  color: #f60;
+  text-decoration: underline dotted #f60;
+  text-shadow: 1px 1px 1px rgba(255, 102, 0, .2);
+}
+.border-top {
+  border: 0px;
+  border-top: 1px solid;
+  padding-top:.2em;
+}
+
+.border-top h3:first-child { 
+  border: 0px;
+  border-top: 3px solid;
+  padding-top: .8em;
+}
+@media print {
+  @page {
+    margin: 0;
+  }
+  body, html {
+    height: 95%;
+  }
+  .heading-container {
+    max-height:2.5em
+  }
+  .border-top h3:first-child { 
+    border-top: 3px solid;
+    padding-top: .3em;
+  }
+  body {
+    font-size: .7em;
+    margin: 1cm;
+  }
+  .gap-4 {
+    grid-gap: 0;
+    gap: 0;
+}
+  nav, #__next-build-watcher, #__next-prerender-indicator {
+    display: none !important
+  }
+}
