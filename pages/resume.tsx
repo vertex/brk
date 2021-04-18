@@ -13,7 +13,7 @@ export default function Resume({position = 'Senior Web Engineering Lead'}) {
       <div className="grid grid-cols-1 gap-4">
         <div className="col-span-1 text-center">
           <h2 className="text-xl font-extrabold">Bryon Keck</h2>
-          Scottsdale, AZ 85257 • 951-313-9760
+          Scottsdale, AZ 85257 • 520-220-1171
           <br/>
           <a href="mailto:hi@brk.dev">hi@brk.dev</a> • <a href="https://www.linkedin.com/in/bryonkeck" target="_blank">www.linkedin.com/in/bryonkeck</a>
         </div>
