@@ -15,7 +15,7 @@ export default function Home() {
           <h2 className="text-xl font-extrabold">Bryon Keck</h2>
           Scottsdale, AZ 85257 • 951-313-9760
           <br/>
-          <a href="mailto:b@bryonkeck.com">b@bryonkeck.com</a> • <a href="https://www.linkedin.com/in/bryonkeck" target="_blank">www.linkedin.com/in/bryonkeck</a>
+          <a href="mailto:hi@brk.dev">hi@brk.dev</a> • <a href="https://www.linkedin.com/in/bryonkeck" target="_blank">www.linkedin.com/in/bryonkeck</a>
         </div>
         <div className="col-span-1 border-top">
           <h3 className=" text-center text-lg font-extrabold">Senior Web Engineering Lead</h3>
