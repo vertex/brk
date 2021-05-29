@@ -20,15 +20,20 @@ export default function Resume({position = 'Member of the Technical Staff, Site 
         <div className="col-span-1 border-top">
           <h3 className="text-center text-lg font-extrabold">{position}</h3>
           <p className="italic my-2">
+
             Multiple award-winning, innovative and detail-oriented site reliability engineer and team lead dedicated bringing observability to trillions of transactions 
             per minute. Leverages technical, analytical and problem-solving skills to fuel competitive advantage and revenue growth, while also having the ability to 
             develop towards ambitious performance through creation of an inclusive and innovative team culture
+            Multiple award-winning, innovative and detail-oriented site reliability engineer and team lead dedicated to building and optimizing the
+  performance of user-centric, high-impact websites and mobile applications for global companies. Leverages technical, analytical and
+  problem-solving skills to fuel competitive advantage and revenue growth, while also having the ability to develop towards ambitious
+  performance through creation of an inclusive and innovative team culture
           </p>
           <span className="font-bold col-span-6">Key Qualifications</span>
           <p>
             <strong className="italic">Software:</strong> Javascript, Node.js, ECMAScript 2017, Linux, Bash command line, PHP, Android, Java, MySQL <br />
             <strong className="italic">Packages:</strong> Angular, Kraken.js, Express.js, React, Webpack, Babel, Highcharts, LESS, SASS, Riak, Qpid, Web Sockets, Open Stack<br />
-            <strong className="italic">Technology:</strong> Observability, REST, Responsive Design, OAuth, Mobile, TDD, Indexing, Document Storage, JSON, ORM, MVC, AJAX
+            <strong className="italic">Technology:</strong> REST, Responsive Design, OAuth, Mobile, TDD, Indexing, Document Storage, JSON, ORM, MVC, AJAX
           </p>
         </div>
         <div className="col-span-1 border-top">
@@ -38,30 +43,9 @@ export default function Resume({position = 'Member of the Technical Staff, Site 
 * Brings observability to one trillion transactions per minute 
             * Re-designed the PayPal command center around Service Level Indicators and Service Level Objectives on a global scale
              */}
-
-        
-        <div className="col-span-1">
-          <span className="font-bold col-span-6">Site Reliability Engineer, Embedding (MTS1)</span>
-          <span className="italic col-span-6 float-right">February 2020 to Present</span><br />
-          <span className="font-bold col-span-6">PayPal</span> – Scottsdale, AZ
-          <p className="my-2">
-            Member of small tiger team dedicated to re-designing the PayPal Command Center observability and alerting into key <em>Service Level Indicators</em>.
-            Responsible for understanding pertinent SLIs and how to represent them into actionable vizualizations using a new observability platform. Worked directly with
-            customers to understand effectiveness of new visualizations, reducing <em>Mean Time to Detect</em> live site issues by approximitely 5 minutes.
-          </p>
-          <p className="italic">
-            Selected Contributions:
-          </p>
-          <ul className="list-disc list-inside">
-            <li>Reduced <em>Mean Time to Detect</em> by five minutes</li>
-            <li>Brought more effective <em>alerting</em> and <em>observability</em> to the Command Center</li>
-            <li>Directly responsible for identifying key incidents, allowing mitigation before large TPV impacts</li>
-          </ul>
-        </div>
-
         <div className="col-span-1">
           <span className="font-bold col-span-6">Architect, Front End (MTS1)</span>
-          <span className="italic col-span-6 float-right">June 2014 to February 2020</span><br />
+          <span className="italic col-span-6 float-right">June 2014 to Present</span><br />
           <span className="font-bold col-span-6">PayPal</span> – Scottsdale, AZ
           <p className="my-2">
             Integral part of a team that was responsible for designing, and engineering a user-facing web application; designed to provide realtime processing, statistics and alerts based on merchant performance and profit loss. Reviewed designs, facilitated priorities,
@@ -82,9 +66,13 @@ export default function Resume({position = 'Member of the Technical Staff, Site 
           <span className="font-bold col-span-6">Web Developer</span>
           <span className="italic col-span-6 float-right">March 2013 to June 2014</span><br />
           <span className="font-bold col-span-6">Biz Anytime</span> (now SquadPod) – Tucson, AZ
-          <p className="my-2">
-            Designed and architected a new product in the digital, remote-workforce collaboration space.
+          <p className="italic">
+            Selected Contributions:
           </p>
+          <ul className="list-disc list-inside">
+            <li>Maintained a legacy product while designing and architecting a new product in the digital, remote-workforce collaboration space.
+            My responsibilities included designing, architecting, the front-end and back-end application user and data flows and application</li>
+          </ul>
         </div>
         <div className="col-span-1">
           <span className="font-bold col-span-6">Senior Engineer</span>
