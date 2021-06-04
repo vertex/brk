@@ -45,9 +45,9 @@ export default function Resume({position = 'Member of the Technical Staff, Site 
           <span className="italic col-span-6 float-right">February 2020 to Present</span><br />
           <span className="font-bold col-span-6">PayPal</span> – Scottsdale, AZ
           <p className="my-2">
-            Member of small tiger team dedicated to re-designing the PayPal Command Center observability and alerting into key <em>Service Level Indicators</em>.
-            Responsible for understanding pertinent SLIs and how to represent them into actionable vizualizations using a new observability platform. Worked directly with
-            customers to understand effectiveness of new visualizations, reducing <em>Mean Time to Detect</em> live site issues by approximitely 5 minutes.
+            Member of a small tiger team dedicated to re-designing the PayPal Command Center observability and alerting into key <em>Service Level Indicators</em>.
+            Responsible for understanding pertinent SLIs and how to represent them into actionable visualizations using a new observability platform. Worked directly with
+            customers to understand effectiveness of new visualizations, reducing <em>Mean Time to Detect</em> live site issues by approximately five minutes.
           </p>
           <p className="italic">
             Selected Contributions:
